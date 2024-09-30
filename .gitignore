@@ -1,0 +1,8 @@
+# Ignore the assets folder
+assets/
+
+# Ignore .vscode folder
+.vscode/
+
+# Ignore any other folder or file you don't want to track
+local-assets/
